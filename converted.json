@@ -1,0 +1,1227 @@
+[
+  {
+    "subject": "Geography",
+    "questions": [
+      {
+        "id": {
+          "@number": "true",
+          "#text": "1"
+        },
+        "question": "Which country is known as 'the Land of Festivals'?",
+        "answer": "India",
+        "explanation": "India is called the 'Land of Festivals' due to its vast cultural diversity, with thousands of festivals like Diwali, Holi, Eid, and Christmas celebrated across its communities, reflecting its rich multicultural heritage."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "2"
+        },
+        "question": "Where is the Himalayan Mountaineering Institute located?",
+        "answer": "Darjeeling, India",
+        "explanation": "The Himalayan Mountaineering Institute, founded in 1954, is located in Darjeeling, West Bengal, to promote mountaineering and train individuals in high-altitude expeditions, leveraging the region's proximity to the Himalayas."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "5"
+        },
+        "question": "Which Indian city has been declared as a World Heritage City by UNESCO recently?",
+        "answer": "Ahmedabad",
+        "explanation": "Ahmedabad was designated a UNESCO World Heritage City in 2017 for its historic walled city, featuring ancient architecture, vibrant bazaars, and landmarks like the Jama Masjid and Bhadra Fort."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "12"
+        },
+        "question": "Where is the International Court of Justice located?",
+        "answer": "The Hague, Netherlands",
+        "explanation": "The International Court of Justice, established in 1945, is located in The Hague, Netherlands, serving as the principal judicial organ of the United Nations for settling disputes between states."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "13"
+        },
+        "question": "What is Limnology?",
+        "answer": "Study of lakes",
+        "explanation": "Limnology is the scientific study of inland aquatic ecosystems, including lakes, rivers, and wetlands, focusing on their physical, chemical, and biological properties."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "14"
+        },
+        "question": "Which city in India is known as the 'City of Joy'?",
+        "answer": "Kolkata",
+        "explanation": "Kolkata is nicknamed the 'City of Joy' after Dominique Lapierre’s novel, highlighting its vibrant culture, literary heritage, and major festivals like Durga Puja, despite historical socioeconomic challenges."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "23"
+        },
+        "question": "Which is the busiest bridge in India?",
+        "answer": "Howrah Bridge, Kolkata",
+        "explanation": "The Howrah Bridge, also known as Rabindra Setu, is one of India’s busiest bridges, connecting Kolkata and Howrah over the Hooghly River, handling immense daily traffic and pedestrian movement."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "24"
+        },
+        "question": "Which city is known as the 'City of Seven Hills'?",
+        "answer": "Rome, Italy",
+        "explanation": "Rome, the capital of Italy, is famously known as the 'City of Seven Hills' due to its location on seven hills, which have historical and cultural significance, including sites like the Palatine and Capitoline."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "26"
+        },
+        "question": "Which country is the leading producer of diamond?",
+        "answer": "Russia",
+        "explanation": "Russia is the world’s leading diamond producer, contributing over 30% of global diamond output, primarily from mines in Yakutia, operated by companies like Alrosa."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "29"
+        },
+        "question": "Where is the headquarters of the United Nations Organisation (UNO) located?",
+        "answer": "New York, USA",
+        "explanation": "The United Nations headquarters, established in 1952, is located in New York City, serving as the primary hub for its General Assembly, Security Council, and other key bodies."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "35"
+        },
+        "question": "Which city is known as the 'Queen of Arabian Sea'?",
+        "answer": "Kochi",
+        "explanation": "Kochi, a major port city in Kerala, is called the 'Queen of the Arabian Sea' due to its historical significance as a trading hub and its scenic coastal location."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "38"
+        },
+        "question": "Which country is known as 'the Land of Thousand Lakes'?",
+        "answer": "Finland",
+        "explanation": "Finland is known as the 'Land of Thousand Lakes' due to its approximately 188,000 lakes, which cover about 10% of the country’s surface, a result of glacial activity."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "39"
+        },
+        "question": "Which country is the leading producer of tea?",
+        "answer": "China",
+        "explanation": "China is the world’s largest tea producer, accounting for over 40% of global production, with major regions like Fujian and Yunnan cultivating varieties like green and black tea."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "44"
+        },
+        "question": "Which city in India is known as the 'City of Dreams'?",
+        "answer": "Mumbai",
+        "explanation": "Mumbai is called the 'City of Dreams' due to its status as India’s financial and entertainment capital, attracting millions pursuing careers in Bollywood, business, and beyond."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "50"
+        },
+        "question": "Which city is named by UNESCO as the World Book Capital?",
+        "answer": "Sharjah",
+        "explanation": "Sharjah, UAE, was named the UNESCO World Book Capital in 2019 for its efforts to promote reading and literature through initiatives like the Sharjah International Book Fair."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "52"
+        },
+        "question": "Which city in India is known as the 'White City'?",
+        "answer": "Udaipur",
+        "explanation": "Udaipur is called the 'White City' due to its many white marble palaces and buildings, such as the City Palace, set against the backdrop of Lake Pichola."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "54"
+        },
+        "question": "Which is the smallest country in the world?",
+        "answer": "Vatican City",
+        "explanation": "Vatican City, an enclave within Rome, Italy, is the smallest country by land area (44 hectares) and population, serving as the headquarters of the Roman Catholic Church."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "57"
+        },
+        "question": "Which is the largest freshwater lake in the world?",
+        "answer": "Lake Superior, USA",
+        "explanation": "Lake Superior, part of the Great Lakes in North America, is the largest freshwater lake by surface area, covering 82,100 km², and is vital for regional ecosystems and commerce."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "58"
+        },
+        "question": "Which country is known as 'the Playground of Europe'?",
+        "answer": "Switzerland",
+        "explanation": "Switzerland is called the 'Playground of Europe' due to its stunning Alpine landscapes, offering activities like skiing, hiking, and mountaineering, attracting tourists year-round."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "60"
+        },
+        "question": "Where is the Lord’s Cricket Ground located?",
+        "answer": "London, England",
+        "explanation": "Lord’s Cricket Ground, established in 1814, is located in London, England, and is considered the 'Home of Cricket,' hosting major international matches and the MCC."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "61"
+        },
+        "question": "Which planet has the maximum value of escape velocity?",
+        "answer": "Jupiter",
+        "explanation": "Jupiter has the highest escape velocity in the solar system (59.5 km/s) due to its massive size and strong gravitational pull, making it difficult for objects to leave its atmosphere."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "62"
+        },
+        "question": "Which Indian city is known as 'the City of Pearls'?",
+        "answer": "Hyderabad",
+        "explanation": "Hyderabad is known as the 'City of Pearls' due to its historical prominence in the pearl trade and jewelry craftsmanship, particularly during the Nizam’s rule."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "63"
+        },
+        "question": "Which city in India was renamed as Varanasi in 1956?",
+        "answer": "Benares",
+        "explanation": "Benares, an ancient city, was officially renamed Varanasi in 1956 to reflect its historical and cultural name, known for its spiritual significance and the Ganges River."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "71"
+        },
+        "question": "Which country is known as 'the Land of Morning Calm'?",
+        "answer": "South Korea",
+        "explanation": "South Korea is called the 'Land of Morning Calm' due to its serene landscapes and historical tranquility, a term popularized during the Joseon Dynasty."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "72"
+        },
+        "question": "Which is the national aquatic animal of India?",
+        "answer": "Gangetic Dolphin",
+        "explanation": "The Gangetic Dolphin, found in the Ganges and Brahmaputra rivers, is India’s national aquatic animal, recognized for its ecological importance and conservation needs."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "73"
+        },
+        "question": "Which is the world’s busiest airport?",
+        "answer": "Hartsfield-Jackson Atlanta International Airport",
+        "explanation": "Hartsfield-Jackson Atlanta International Airport, USA, is the world’s busiest by passenger traffic, handling over 100 million passengers annually due to its strategic location."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "74"
+        },
+        "question": "Where is the Ghana Bird Sanctuary located?",
+        "answer": "Rajasthan, India",
+        "explanation": "The Ghana Bird Sanctuary, also known as Keoladeo National Park, is located in Bharatpur, Rajasthan, and is a UNESCO World Heritage Site known for its rich avian biodiversity."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "78"
+        },
+        "question": "Where is the headquarters of Sahitya Akademi located?",
+        "answer": "New Delhi, India",
+        "explanation": "The Sahitya Akademi, India’s National Academy of Letters, is headquartered in New Delhi, promoting Indian literature and awarding literary achievements."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "79"
+        },
+        "question": "Which is the longest river in India?",
+        "answer": "The Ganges",
+        "explanation": "The Ganges, stretching about 2,525 km, is India’s longest river, vital for agriculture, spirituality, and culture, flowing through states like Uttar Pradesh and West Bengal."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "81"
+        },
+        "question": "How many countries share their borderline with India?",
+        "answer": "7",
+        "explanation": "India shares its borders with seven countries: Bangladesh, Bhutan, China, Myanmar, Nepal, Pakistan, and Afghanistan, influencing its geopolitical and cultural dynamics."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "87"
+        },
+        "question": "Which is the junction point of Eastern and Western Ghats?",
+        "answer": "Nilgiri Hills",
+        "explanation": "The Nilgiri Hills in Tamil Nadu serve as the meeting point of the Eastern and Western Ghats, known for their biodiversity and tea plantations."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "88"
+        },
+        "question": "Which city is known as the 'Forbidden City'?",
+        "answer": "Lhasa, Tibet",
+        "explanation": "Lhasa, Tibet, is called the 'Forbidden City' due to its historical inaccessibility and cultural significance as the spiritual center of Tibetan Buddhism, home to the Potala Palace."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "90"
+        },
+        "question": "Which is the longest dam in India?",
+        "answer": "Hirakud Dam, Odisha",
+        "explanation": "The Hirakud Dam, built on the Mahanadi River in Odisha, is India’s longest dam (4.8 km), supporting irrigation, power generation, and flood control."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "105"
+        },
+        "question": "Where is the Kaziranga National Park located?",
+        "answer": "Assam, India",
+        "explanation": "Kaziranga National Park in Assam is a UNESCO World Heritage Site, famous for hosting two-thirds of the world’s one-horned rhinoceros population."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "113"
+        },
+        "question": "Where is India’s first floating post office established?",
+        "answer": "Dal Lake, Srinagar",
+        "explanation": "India’s first floating post office was established on Dal Lake, Srinagar, in 2011, serving as a unique tourist attraction and functional postal service."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "123"
+        },
+        "question": "Which is the highest peak in India?",
+        "answer": "Kangchenjunga",
+        "explanation": "Kangchenjunga, at 8,586 meters, is India’s highest peak, located in Sikkim, and the third-highest in the world, revered in local culture."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "128"
+        },
+        "question": "Which city is known as the 'Garden City'?",
+        "answer": "Bengaluru",
+        "explanation": "Bengaluru is called the 'Garden City' due to its numerous parks, tree-lined streets, and green spaces, like Lalbagh and Cubbon Park."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "135"
+        },
+        "question": "Which is the capital of Mizoram?",
+        "answer": "Aizawl",
+        "explanation": "Aizawl, located in the hilly terrain of Mizoram, is the state’s capital, known for its scenic beauty and cultural heritage."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "139"
+        },
+        "question": "Which is the largest delta in the world?",
+        "answer": "Sundarbans Delta",
+        "explanation": "The Sundarbans Delta, formed by the Ganges, Brahmaputra, and Meghna rivers, is the world’s largest delta, known for its mangrove forests and biodiversity."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "142"
+        },
+        "question": "Which city is known as the 'Steel City of India'?",
+        "answer": "Jamshedpur",
+        "explanation": "Jamshedpur, Jharkhand, is called the 'Steel City of India' due to the Tata Steel plant, one of India’s largest, driving industrial growth."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "148"
+        },
+        "question": "Which is the highest lake above sea level in the world?",
+        "answer": "Lake Titicaca",
+        "explanation": "Lake Titicaca, located on the border of Peru and Bolivia at 3,812 meters, is the highest navigable lake in the world, significant for its cultural and ecological value."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "153"
+        },
+        "question": "What is the name of the Chennai to Visakhapatnam National Highway?",
+        "answer": "NH 16",
+        "explanation": "NH 16, part of the Golden Quadrilateral, connects Chennai to Visakhapatnam, facilitating trade and travel along India’s eastern coast."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "159"
+        },
+        "question": "Which is considered a hotspot of biodiversity in India?",
+        "answer": "Western Ghats",
+        "explanation": "The Western Ghats, a UNESCO World Heritage Site, is a biodiversity hotspot in India, hosting thousands of plant and animal species across its mountain range."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "162"
+        },
+        "question": "Where is the headquarters of UNESCO located?",
+        "answer": "Paris, France",
+        "explanation": "UNESCO’s headquarters is in Paris, France, established in 1945 to promote international cooperation in education, science, culture, and communication."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "163"
+        },
+        "question": "Which is the biggest lake in India?",
+        "answer": "Chilika Lake",
+        "explanation": "Chilika Lake in Odisha is India’s largest coastal lagoon, a Ramsar site known for its biodiversity, including migratory birds and the Irrawaddy dolphin."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "167"
+        },
+        "question": "Which is the largest gulf in the world?",
+        "answer": "Gulf of Mexico",
+        "explanation": "The Gulf of Mexico, covering about 1.6 million km², is the largest gulf in the world, bordered by the USA, Mexico, and Cuba, vital for marine ecosystems and trade."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "169"
+        },
+        "question": "Port Blair, the capital of Andaman & Nicobar Islands, is located in which island?",
+        "answer": "South Andaman",
+        "explanation": "Port Blair, the capital of Andaman & Nicobar Islands, is located on South Andaman Island, serving as the administrative and economic hub of the Union Territory."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "173"
+        },
+        "question": "Which state has the largest coastline in India?",
+        "answer": "Gujarat",
+        "explanation": "Gujarat has India’s longest coastline, approximately 1,600 km, along the Arabian Sea, supporting ports like Kandla and Mundra."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "174"
+        },
+        "question": "Which is the deepest landlocked protected port?",
+        "answer": "Visakhapatnam Port",
+        "explanation": "Visakhapatnam Port in Andhra Pradesh is India’s deepest landlocked protected port, handling significant cargo and naval operations."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "175"
+        },
+        "question": "Which is the first national park established in India?",
+        "answer": "Jim Corbett National Park",
+        "explanation": "Jim Corbett National Park, established in 1936 in Uttarakhand, is India’s first national park, renowned for its tiger conservation and biodiversity."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "176"
+        },
+        "question": "In which Indian state are the world-famous Khajuraho sculptures found?",
+        "answer": "Madhya Pradesh",
+        "explanation": "The Khajuraho sculptures, part of a UNESCO World Heritage Site in Madhya Pradesh, are famous for their intricate temple carvings depicting art, mythology, and life."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "180"
+        },
+        "question": "Where is the headquarters of the Coffee Board of India located?",
+        "answer": "Bengaluru",
+        "explanation": "The Coffee Board of India, established to promote coffee production, is headquartered in Bengaluru, a hub for coffee trade and research."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "185"
+        },
+        "question": "Which is the longest river of southern India?",
+        "answer": "Godavari",
+        "explanation": "The Godavari, stretching about 1,465 km, is the longest river in southern India, flowing through states like Maharashtra and Andhra Pradesh, vital for irrigation."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "186"
+        },
+        "question": "Which is the capital of Himachal Pradesh?",
+        "answer": "Shimla",
+        "explanation": "Shimla, known for its colonial architecture and scenic beauty, is the capital of Himachal Pradesh, serving as a major administrative and tourist center."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "187"
+        },
+        "question": "Where is the Integral Coach Factory in India located?",
+        "answer": "Perambur, Chennai",
+        "explanation": "The Integral Coach Factory in Perambur, Chennai, established in 1955, is India’s premier railway coach manufacturing facility."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "189"
+        },
+        "question": "Which is the leading bus terminus in Asia?",
+        "answer": "Chennai Mofussil Bus Terminus, Koyambedu",
+        "explanation": "The Chennai Mofussil Bus Terminus in Koyambedu is Asia’s largest bus terminus, handling thousands of passengers daily with extensive connectivity."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "194"
+        },
+        "question": "Where is the Central Marine Fisheries Research Institute located?",
+        "answer": "Kochi",
+        "explanation": "The Central Marine Fisheries Research Institute in Kochi, Kerala, focuses on marine fisheries research, supporting India’s coastal economy."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "196"
+        },
+        "question": "Which is the capital of the USA?",
+        "answer": "Washington, D.C.",
+        "explanation": "Washington, D.C., is the capital of the USA, hosting key government institutions like the White House, Congress, and the Supreme Court."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "214"
+        },
+        "question": "Where is the Sundarban Tiger Reserve situated?",
+        "answer": "West Bengal",
+        "explanation": "The Sundarban Tiger Reserve in West Bengal, part of the Sundarbans Delta, is a UNESCO World Heritage Site known for its Royal Bengal tigers and mangroves."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "215"
+        },
+        "question": "Which is the longest national highway in India?",
+        "answer": "NH 44",
+        "explanation": "NH 44, spanning 3,745 km from Srinagar to Kanyakumari, is India’s longest national highway, connecting northern and southern regions."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "217"
+        },
+        "question": "Where is the Central Food Technology Research Institute located?",
+        "answer": "Mysuru",
+        "explanation": "The Central Food Technology Research Institute in Mysuru, Karnataka, is a premier institute for food science and technology research."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "220"
+        },
+        "question": "Where is the Green Park Stadium located?",
+        "answer": "Kanpur",
+        "explanation": "Green Park Stadium in Kanpur, Uttar Pradesh, is a historic cricket venue hosting international and domestic matches."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "236"
+        },
+        "question": "Where is the Himalayan Forest Research Institute located?",
+        "answer": "Shimla",
+        "explanation": "The Himalayan Forest Research Institute in Shimla, Himachal Pradesh, focuses on forestry research in the Himalayan region."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "242"
+        },
+        "question": "Where is the Centre for Liquid Crystal Research located?",
+        "answer": "Bengaluru",
+        "explanation": "The Centre for Liquid Crystal Research in Bengaluru advances research in liquid crystal technology for applications in displays and optics."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "248"
+        },
+        "question": "Where is the Institute of Forest Genetics & Tree Breeding located?",
+        "answer": "Coimbatore",
+        "explanation": "The Institute of Forest Genetics & Tree Breeding in Coimbatore, Tamil Nadu, specializes in forest genetics and tree improvement research."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "254"
+        },
+        "question": "Which Indian city is known as 'the Diamond City'?",
+        "answer": "Surat",
+        "explanation": "Surat, Gujarat, is called the 'Diamond City' due to its dominant role in the global diamond cutting and polishing industry."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "258"
+        },
+        "question": "Where is the Indian Institute of Foreign Trade located?",
+        "answer": "New Delhi",
+        "explanation": "The Indian Institute of Foreign Trade in New Delhi is a premier institution for international business education and research."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "260"
+        },
+        "question": "Where is the S.N. Bose National Centre for Basic Sciences located?",
+        "answer": "Kolkata",
+        "explanation": "The S.N. Bose National Centre for Basic Sciences in Kolkata focuses on advanced research in theoretical and physical sciences."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "269"
+        },
+        "question": "Where is the Central Institute of Indian Languages located?",
+        "answer": "Mysuru",
+        "explanation": "The Central Institute of Indian Languages in Mysuru promotes research and development of Indian languages."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "275"
+        },
+        "question": "Where is the Centre for Wind Energy Technology located?",
+        "answer": "Chennai",
+        "explanation": "The Centre for Wind Energy Technology in Chennai drives research and development in wind energy solutions for India."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "284"
+        },
+        "question": "Where is the Patagonian Desert located?",
+        "answer": "Argentina",
+        "explanation": "The Patagonian Desert, South America’s largest desert, is located in Argentina, characterized by its arid landscapes and unique ecosystems."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "287"
+        },
+        "question": "Which city is selected as UNESCO’s Creative City Network for contribution in music?",
+        "answer": "Chennai",
+        "explanation": "Chennai was included in UNESCO’s Creative Cities Network in 2017 for its rich tradition in Carnatic music and contributions to musical heritage."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "303"
+        },
+        "question": "Where is the National Centre of Organic Farming located?",
+        "answer": "Ghaziabad",
+        "explanation": "The National Centre of Organic Farming in Ghaziabad, Uttar Pradesh, promotes organic agriculture through research and training."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "308"
+        },
+        "question": "Where is the Great Victoria Desert located?",
+        "answer": "Australia",
+        "explanation": "The Great Victoria Desert, Australia’s largest desert, spans Western and South Australia, known for its arid climate and unique flora and fauna."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "326"
+        },
+        "question": "Where is the Angel Falls located?",
+        "answer": "Venezuela",
+        "explanation": "Angel Falls, the world’s highest waterfall at 979 meters, is located in Venezuela’s Canaima National Park, a UNESCO World Heritage Site."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "330"
+        },
+        "question": "In which state of India does the sun rise first?",
+        "answer": "Arunachal Pradesh",
+        "explanation": "Arunachal Pradesh, India’s easternmost state, is the first to experience sunrise due to its location near the 28°E longitude."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "334"
+        },
+        "question": "Which is the highest peak in the Western Ghats?",
+        "answer": "Anamudi",
+        "explanation": "Anamudi, at 2,695 meters in Kerala, is the highest peak in the Western Ghats, known for its biodiversity and scenic beauty."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "351"
+        },
+        "question": "Where is the Indian Institute of Mass Communication located?",
+        "answer": "New Delhi",
+        "explanation": "The Indian Institute of Mass Communication in New Delhi is a premier institute for media education and journalism training."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "365"
+        },
+        "question": "Which city is known as 'the Magic City'?",
+        "answer": "Miami, Florida",
+        "explanation": "Miami, Florida, is called the 'Magic City' due to its rapid growth and vibrant cultural and economic scene in the early 20th century."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "374"
+        },
+        "question": "Which is the capital of Austria?",
+        "answer": "Vienna",
+        "explanation": "Vienna, the capital of Austria, is a cultural and political hub known for its historical architecture and contributions to music and art."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "375"
+        },
+        "question": "Where is the Army School of Physical Training located?",
+        "answer": "Pune",
+        "explanation": "The Army School of Physical Training in Pune, Maharashtra, trains military personnel in physical fitness and combat readiness."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "376"
+        },
+        "question": "Which city in India is known as 'the City of Golden Temple'?",
+        "answer": "Amritsar",
+        "explanation": "Amritsar is called the 'City of Golden Temple' due to the iconic Harmandir Sahib, a central religious site for Sikhs, attracting millions of visitors."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "381"
+        },
+        "question": "Where is the Indira Gandhi National Forest Academy located?",
+        "answer": "Dehradun",
+        "explanation": "The Indira Gandhi National Forest Academy in Dehradun, Uttarakhand, trains Indian Forest Service officers in forestry management."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "409"
+        },
+        "question": "Where is the Nokrek Biosphere Reserve located?",
+        "answer": "Meghalaya",
+        "explanation": "The Nokrek Biosphere Reserve in Meghalaya is a UNESCO site known for its biodiversity, including the rare red panda and citrus species."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "412"
+        },
+        "question": "Which is the world’s rainiest spot?",
+        "answer": "Mawsynram, India",
+        "explanation": "Mawsynram in Meghalaya, India, is the world’s rainiest place, receiving an average annual rainfall of about 11,871 mm due to its monsoon-driven climate."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "413"
+        },
+        "question": "How many states in India are coastal?",
+        "answer": "9",
+        "explanation": "India has nine coastal states: Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil Nadu, Andhra Pradesh, Odisha, and West Bengal, along its 7,517 km coastline."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "415"
+        },
+        "question": "Which city is known as 'the Big Apple'?",
+        "answer": "New York City, USA",
+        "explanation": "New York City is called the 'Big Apple,' a term popularized in the 1920s to describe its prominence in culture, finance, and entertainment."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "616"
+        },
+        "question": "Which Indian city is known as 'the City of Weavers'?",
+        "answer": "Panipat",
+        "explanation": "Panipat, Haryana, is known as the 'City of Weavers' due to its thriving textile industry, particularly in handloom and home furnishings."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "618"
+        },
+        "question": "Which Indian state is known as 'the State of 5 Rivers'?",
+        "answer": "Punjab",
+        "explanation": "Punjab is called the 'State of Five Rivers' due to the Beas, Chenab, Jhelum, Ravi, and Sutlej rivers, which support its fertile agricultural lands."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "619"
+        },
+        "question": "Which is the first Union Territory of India to be fully run on solar energy?",
+        "answer": "Diu",
+        "explanation": "Diu became India’s first Union Territory to run fully on solar energy in 2018, with solar plants meeting its entire daytime power demand."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "620"
+        },
+        "question": "Where is the Bellary Thermal Power Plant located?",
+        "answer": "Karnataka",
+        "explanation": "The Bellary Thermal Power Plant in Karnataka is a major coal-based power station contributing to the state’s electricity supply."
+      }
+    ]
+  },
+  {
+    "subject": "History",
+    "questions": [
+      {
+        "id": {
+          "@number": "true",
+          "#text": "15"
+        },
+        "question": "Who was the first Asian winner of the Nobel Prize?",
+        "answer": "Rabindranath Tagore",
+        "explanation": "Rabindranath Tagore, an Indian poet, won the Nobel Prize in Literature in 1913 for his work 'Gitanjali,' becoming the first Asian laureate."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "25"
+        },
+        "question": "Who was the first woman chief minister of India?",
+        "answer": "Sucheta Kripalani",
+        "explanation": "Sucheta Kripalani became India’s first woman Chief Minister in 1963, serving Uttar Pradesh and contributing significantly to India’s independence movement."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "28"
+        },
+        "question": "Who invented dynamite?",
+        "answer": "Alfred Nobel",
+        "explanation": "Alfred Nobel, a Swedish chemist, invented dynamite in 1867, later establishing the Nobel Prizes to promote peace and scientific advancement."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "31"
+        },
+        "question": "Who is known as 'Indian Bismarck'?",
+        "answer": "Sardar Vallabhbhai Patel",
+        "explanation": "Sardar Vallabhbhai Patel, India’s first Deputy Prime Minister, was called the 'Indian Bismarck' for his role in unifying 562 princely states into modern India."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "37"
+        },
+        "question": "Who was the first woman recipient of the Magsaysay Award?",
+        "answer": "Kiran Bedi",
+        "explanation": "Kiran Bedi, India’s first woman IPS officer, received the Magsaysay Award in 1994 for her contributions to community leadership and prison reforms."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "40"
+        },
+        "question": "Who was the first woman IAS officer of India?",
+        "answer": "Anna Rajam George",
+        "explanation": "Anna Rajam George (née Malhotra) was the first woman to join the Indian Administrative Service in 1950, breaking gender barriers in civil services."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "43"
+        },
+        "question": "Who was the first woman President of the UN General Assembly?",
+        "answer": "Vijaya Lakshmi Pandit",
+        "explanation": "Vijaya Lakshmi Pandit, an Indian diplomat, was the first woman President of the UN General Assembly in 1953, marking a milestone in global diplomacy."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "70"
+        },
+        "question": "Name the Indian king who was known as 'Napoleon of India'.",
+        "answer": "Samudra Gupta",
+        "explanation": "Samudra Gupta, a 4th-century Gupta emperor, was called the 'Napoleon of India' for his extensive military campaigns, as documented in the Allahabad Pillar inscription."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "85"
+        },
+        "question": "Who founded Nalanda University?",
+        "answer": "Kumara Gupta",
+        "explanation": "Kumara Gupta I, a Gupta emperor, is credited with founding Nalanda University in the 5th century, a renowned center of learning in ancient India."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "89"
+        },
+        "question": "Who was the first woman to receive Bharat Ratna?",
+        "answer": "Indira Gandhi",
+        "explanation": "Indira Gandhi, former Prime Minister, received the Bharat Ratna in 1971 for her leadership and contributions to India’s development and international standing."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "91"
+        },
+        "question": "Who is known as 'the Man of Destiny'?",
+        "answer": "Napoleon Bonaparte",
+        "explanation": "Napoleon Bonaparte, the French military leader, was called the 'Man of Destiny' for his rapid rise to power and belief in his destined role in shaping Europe."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "114"
+        },
+        "question": "Who is the present Chief Minister of Telangana?",
+        "answer": "K. Chandrashekar Rao",
+        "explanation": "K. Chandrashekar Rao has been the Chief Minister of Telangana since 2014, leading the state’s formation and development post-bifurcation from Andhra Pradesh."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "115"
+        },
+        "question": "Who was the first Indian woman to climb Mount Everest?",
+        "answer": "Bachendri Pal",
+        "explanation": "Bachendri Pal became the first Indian woman to summit Mount Everest in 1984, inspiring women in mountaineering and adventure sports."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "134"
+        },
+        "question": "Who was the first Mauryan ruler to conquer Deccan?",
+        "answer": "Bindusara",
+        "explanation": "Bindusara, the second Mauryan emperor, extended the empire into the Deccan region, laying the groundwork for Ashoka’s further conquests."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "140"
+        },
+        "question": "Who was the founder of the Gupta Dynasty?",
+        "answer": "Sri Gupta",
+        "explanation": "Sri Gupta founded the Gupta Dynasty in the 3rd century CE, initiating a golden age of Indian culture, science, and administration."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "141"
+        },
+        "question": "Who is the only President of India elected as an independent candidate?",
+        "answer": "Neelam Sanjiva Reddy",
+        "explanation": "Neelam Sanjiva Reddy was elected India’s President in 1977 as an independent candidate, serving with distinction until 1982."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "177"
+        },
+        "question": "Who was the first Chairman of the Indian Atomic Energy Commission?",
+        "answer": "Homi J. Bhabha",
+        "explanation": "Homi J. Bhabha, a pioneering physicist, was the first Chairman of the Indian Atomic Energy Commission, instrumental in developing India’s nuclear program."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "178"
+        },
+        "question": "Who had the policy of 'One People, One State, and One Leader'?",
+        "answer": "Adolf Hitler",
+        "explanation": "Adolf Hitler, the Nazi leader, promoted the policy of 'One People, One State, One Leader' to consolidate power in Germany during the 1930s and 1940s."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "211"
+        },
+        "question": "Who started the Public Works Department in India?",
+        "answer": "Lord Dalhousie",
+        "explanation": "Lord Dalhousie, Governor-General of India (1848–1856), established the Public Works Department to develop infrastructure like railways and roads."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "218"
+        },
+        "question": "Who completed the construction of Qutub Minar?",
+        "answer": "Iltutmish",
+        "explanation": "Iltutmish, a Delhi Sultanate ruler, completed the Qutub Minar in Delhi, started by Qutb-ud-din Aibak, as a symbol of victory and architectural prowess."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "241"
+        },
+        "question": "Who was the first Governor-General of Pakistan?",
+        "answer": "Muhammad Ali Jinnah",
+        "explanation": "Muhammad Ali Jinnah, the founder of Pakistan, served as its first Governor-General from 1947 until his death in 1948."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "249"
+        },
+        "question": "Who was the first Viceroy of India?",
+        "answer": "Lord Canning",
+        "explanation": "Lord Canning was the first Viceroy of India (1858–1862), overseeing the transition of power from the East India Company to the British Crown."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "257"
+        },
+        "question": "Who was the first Governor-General of India?",
+        "answer": "William Bentinck",
+        "explanation": "William Bentinck, serving from 1828 to 1835, was the first Governor-General of India, introducing social reforms like banning sati."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "265"
+        },
+        "question": "Who was the first President of the USA?",
+        "answer": "George Washington",
+        "explanation": "George Washington, serving from 1789 to 1797, was the first President of the United States, setting precedents for the office."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "267"
+        },
+        "question": "Who was the last British Viceroy of India?",
+        "answer": "Lord Mountbatten",
+        "explanation": "Lord Mountbatten was the last British Viceroy of India (1947), overseeing the transfer of power and India’s independence."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "272"
+        },
+        "question": "Who is the world’s first woman cosmonaut?",
+        "answer": "Valentina Tereshkova",
+        "explanation": "Valentina Tereshkova, a Soviet cosmonaut, became the first woman in space in 1963 aboard Vostok 6, orbiting Earth 48 times."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "289"
+        },
+        "question": "Who was the founder of the Kindergarten education system?",
+        "answer": "Friedrich Froebel",
+        "explanation": "Friedrich Froebel, a German educator, founded the Kindergarten system in the 1830s, emphasizing early childhood education through play."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "290"
+        },
+        "question": "Which is the first university established in the world?",
+        "answer": "Nalanda University",
+        "explanation": "Nalanda University, established in the 5th century CE in India, is considered the world’s first residential university, attracting scholars globally."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "317"
+        },
+        "question": "Who was the first Education Minister of independent India?",
+        "answer": "Maulana Abul Kalam Azad",
+        "explanation": "Maulana Abul Kalam Azad, a freedom fighter and scholar, was India’s first Education Minister (1947–1958), shaping the country’s education system."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "362"
+        },
+        "question": "Who constructed the Jagannath Temple at Puri?",
+        "answer": "Anantavarman Chodaganga",
+        "explanation": "Anantavarman Chodaganga, a 12th-century Ganga dynasty ruler, constructed the Jagannath Temple in Puri, a major pilgrimage site."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "382"
+        },
+        "question": "Who was the world’s first woman President?",
+        "answer": "Isabel Perón",
+        "explanation": "Isabel Perón, President of Argentina (1974–1976), was the world’s first woman president, succeeding her husband Juan Perón."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "401"
+        },
+        "question": "Who was the first recipient of the Param Vir Chakra?",
+        "answer": "Major Somnath Sharma",
+        "explanation": "Major Somnath Sharma received India’s first Param Vir Chakra in 1947 for his bravery during the Indo-Pak War in Kashmir."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "410"
+        },
+        "question": "Who is the first Indian woman to win a medal at the Olympic Games?",
+        "answer": "Karnam Malleswari",
+        "explanation": "Karnam Malleswari won a bronze medal in weightlifting at the 2000 Sydney Olympics, becoming the first Indian woman to achieve this feat."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "411"
+        },
+        "question": "Who is the present Emperor of Japan?",
+        "answer": "Naruhito",
+        "explanation": "Naruhito became the Emperor of Japan in 2019, succeeding his father Akihito, continuing the world’s oldest hereditary monarchy."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "416"
+        },
+        "question": "Who is the 45th Chief Justice of India?",
+        "answer": "Dipak Misra",
+        "explanation": "Dipak Misra served as the 45th Chief Justice of India from 2017 to 2018, overseeing landmark judgments like the decriminalization of Section 377."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "428"
+        },
+        "question": "Who appoints the District Judges of a state?",
+        "answer": "Governor",
+        "explanation": "The Governor of a state, in consultation with the High Court, appoints District Judges under Article 233 of the Indian Constitution."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "463"
+        },
+        "question": "Who is the first woman lawyer to be directly promoted as a Supreme Court Judge?",
+        "answer": "Indu Malhotra",
+        "explanation": "Indu Malhotra was the first woman lawyer directly appointed as a Supreme Court Judge in 2018, known for her contributions to landmark verdicts."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "532"
+        },
+        "question": "Who started the Indian Academy of Sciences?",
+        "answer": "C.V. Raman",
+        "explanation": "C.V. Raman, a Nobel laureate, founded the Indian Academy of Sciences in 1934 to promote scientific research and collaboration."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "545"
+        },
+        "question": "Whose achievements are recorded in the Allahabad Pillar inscription?",
+        "answer": "Samudra Gupta",
+        "explanation": "The Allahabad Pillar inscription, erected by Samudra Gupta, details his military conquests and contributions to the Gupta Empire’s golden age."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "586"
+        },
+        "question": "Who is the woman pilot of the Indian Air Force to complete a solo flight in a fighter aircraft?",
+        "answer": "Avani Chaturvedi",
+        "explanation": "Avani Chaturvedi became the first Indian woman to fly a fighter aircraft solo in 2018, piloting a MiG-21, marking a milestone for women in the IAF."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "597"
+        },
+        "question": "Who established the Mauryan Empire in ancient India?",
+        "answer": "Chandragupta Maurya",
+        "explanation": "Chandragupta Maurya founded the Mauryan Empire in 321 BCE, unifying much of India with the guidance of his mentor, Chanakya."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "601"
+        },
+        "question": "Who is the present Chief Justice of India?",
+        "answer": "Dipak Misra",
+        "explanation": "Dipak Misra was the Chief Justice of India in 2017–2018, noted for handling significant cases; the current CJI as of 2025 is different and can be updated if needed."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "617"
+        },
+        "question": "Who is the first Indian pilot to fly across the English Channel?",
+        "answer": "J.R.D. Tata",
+        "explanation": "J.R.D. Tata, an aviation pioneer, was the first Indian to fly across the English Channel in 1932, later founding Air India."
+      },
+      {
+        "id": {
+          "@number": "true",
+          "#text": "622"
+        },
+        "question": "Who is the first Indian to pass the ICS exam?",
+        "answer": "Satyendranath Tagore",
+        "explanation": "Satyendranath Tagore, brother of Rabindranath Tagore, was the first Indian to pass the Indian Civil Service exam in 1863, serving in the British administration."
+      }
+    ]
+  }
+]
